@@ -1,0 +1,7 @@
+#ifndef define_h
+#define define_h
+
+#define BOOKMARK_FUNC_ENABLE  1
+#define BOOKMARK_FUNC_DISABLE  0
+  
+#endif
